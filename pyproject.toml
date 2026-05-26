@@ -6,12 +6,11 @@ requires = [
 
 [project]
 name = "courts-db"
-version = "0.10.25"
+version = "0.10.27"
 description = "Database of Courts"
 readme = "README.rst"
 keywords = [ "courts", "legal" ]
 license = "BSD-2-Clause"
-license-files = [ "LICENSE" ]
 authors = [
   { name = "Free Law Project", email = "info@free.law" },
 ]
